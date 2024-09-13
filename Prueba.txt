@@ -1,2 +1,4 @@
 Estoy Haciendo mi primera prueba
 Estoy recordando como enviar un archivo a GitHub
+He echo un git pull origin en mi local para importar el archivo de Montse 
+º
